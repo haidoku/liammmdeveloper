@@ -24,4 +24,4 @@
 
 
 ### Skills (As Icons):
-![My Skills](https://skillicons.dev/icons?i=java,bash,cloudflare,discord,bots,express,go,gradle,lua,mysql,py,sqlite,selenium,c,cpp,firebase,pocketbase,git&perline=7)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=java,bash,cloudflare,discord,bots,go,express,gradle,lua,vim,mysql,py,sqlite,selenium,c,cpp,firebase,git&perline=7)](https://skillicons.dev)
