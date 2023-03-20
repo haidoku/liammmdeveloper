@@ -3,3 +3,25 @@
 </div>
 
 ![Visitors](https://komarev.com/ghpvc/?username=liammmdeveloper&color=0384fc)
+
+### Some of my skills are:
+- Programming languages such as Java, NodeJS, Python, GoLang, C, C++ & A few others
+- Backend development and engineering
+- System administration
+- Working with the Discord API
+- Malware Creation & Threat analysis
+- Artificial Intelligence & Machine Learning
+
+
+### Some of my weaker skills that I'd like to work on include:
+- Next.js
+- Frontend Development (HTML/CSS/JS)
+- Game Development
+
+### Current Projects:
+- dootsi (discord bot) (Music, DM Verification, Security/Moderation)
+- Machine Learning Code Generater (Private)
+
+
+### Skills (As Icons):
+![My Skills](https://skillicons.dev/icons?i=java,bash,cloudflare,discord,bots,express,go,gradle,lua,mysql,py,sqlite,selenium,c,cpp,firebase,pocketbase,git&perline=7)](https://skillicons.dev)
