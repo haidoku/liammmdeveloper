@@ -19,8 +19,7 @@
 - Game Development
 
 ### Current Projects:
-- dootsi (discord bot) (Music, DM Verification, Security/Moderation)
-- Machine Learning Code Generater (Private)
+
 
 
 ### Skills (As Icons):
